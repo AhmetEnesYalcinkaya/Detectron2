@@ -10,7 +10,7 @@ Bu çalışmamızda kendi oluşturduğumuz ve etiketlemesini yaptığımız veri
 Detectron2 ile birçok hazır ağırlıkları kullanarak kendi verinizi eğitebilir ve rahatlıkla modellerinizin sonuçlarını inceleyebilirsiniz.
 
 ### O zaman hiç beklemeden Colab üzerinden uygulamayı inceleyelim !!! 
-<img align="left" src="https://media.giphy.com/media/5AcR8w022Gk4E/giphy.gif" width=40% />
+<img align="left" src="https://media.giphy.com/media/5AcR8w022Gk4E/giphy.gif" width=70% />
 <br/>
 <br/>
 
