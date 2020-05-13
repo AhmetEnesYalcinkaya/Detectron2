@@ -1,5 +1,5 @@
 # Detectron2 ile Nesne Tanıma
-<img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="500">
+<img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="700">
 
 [Facebook AI Research](https://ai.facebook.com/blog-detectron2-a-pytorch-based-modular-object-detection-library-/) (FAIR) ilkini 2018 yılında yayınladığı daha sonrasında 2019 yılında ikinci sürümünü paylaştıkları 'Detectron2' birçok uygulayacının vazgeçilmezi haline geldi. 
 
