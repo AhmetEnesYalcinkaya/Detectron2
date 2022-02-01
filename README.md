@@ -1,9 +1,9 @@
 # Detectron2 ile Nesne Tanıma
 <img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="500">
 
-[Facebook AI Research](https://ichi.pro/assets/images/max/724/0*0lrjD6vh9njSI2zJ) (FAIR) ilkini 2018 yılında yayınladığı daha sonrasında 2019 yılında ikinci sürümünü paylaştıkları 'Detectron2' birçok uygulayacının vazgeçilmezi haline geldi. 
+[Facebook AI Research](https://ai.facebook.com/) (FAIR) ilkini 2018 yılında yayınladığı daha sonrasında 2019 yılında ikinci sürümünü paylaştıkları 'Detectron2' birçok uygulayacının vazgeçilmezi haline geldi. 
 
-<img src="https://research.fb.com/wp-content/uploads/2018/01/mask-detectron-post.jpg?w=1024" width="700" >
+<img src="https://miro.medium.com/max/724/1*-5ObWfEmpOlQFjh6l6vNhQ.png" >
 
 Bu çalışmamızda kendi oluşturduğumuz ve etiketlemesini yaptığımız veriyi 'Detectron2' ile nesne tespiti uygulaması gerçekleştireceğiz.
 
